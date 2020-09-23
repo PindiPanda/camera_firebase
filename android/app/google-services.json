@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619228390892",
+    "firebase_url": "https://pindichatflutter.firebaseio.com",
+    "project_id": "pindichatflutter",
+    "storage_bucket": "pindichatflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619228390892:android:7d73c8e1b5c13e606c0cc9",
+        "android_client_info": {
+          "package_name": "com.pindipanda.camera_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619228390892-gap3gqdaa5g733j01kkue0t2ppkcj2n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pindipanda.camera_firebase",
+            "certificate_hash": "903eeb8dc0b8e2553410dac5e4528f098cd269a2"
+          }
+        },
+        {
+          "client_id": "619228390892-ondbp1osc21lilknuu1b8rgmbd5cheqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6kL_fPK8jK5TsfBE37qcRFlkK3fhHUh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619228390892-ondbp1osc21lilknuu1b8rgmbd5cheqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
